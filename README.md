@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Trung Đỗ (Terry Do)</h1>
 <h3 align="center">A passionate Full-stack developer from Vietnam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terrydo" alt="terrydo" /></a> </p>
+<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terrydo&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=15&no-bg=true&no-frame=true&theme=monokai" alt="terrydo" /></a> 
+</p>
+
+- 📊 A lot of my commits are from Bitbucket, and my old companies uses GitLab, so the statistics here might not be fully accurate
 
 - 👨‍💻 Some of my projects are available at [https://terrydo.github.io](https://terrydo.github.io)
 
-- 📫 How to reach me **hou.dobaotrung@gmail.com**
+- 📫 Don't hesitate to ask me any questions at **hou.dobaotrung@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
