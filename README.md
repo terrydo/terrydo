@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-stack developer from Vietnam</h3>
 <p>&nbsp;</p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=terrydo&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=15&no-bg=true&no-frame=true&theme=monokai&column=-1" alt="terrydo" align="center" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy-bay.vercel.app/?username=terrydo&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=15&no-bg=true&no-frame=true&theme=monokai&column=-1" alt="terrydo" align="center" /></a> 
 </p>
 <p>&nbsp;</p>
 
