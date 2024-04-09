@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trung Đỗ (Terry Do)</h1>
+<h1 align="center">Hi 👋, I'm Trung Đỗ (Trump Do)</h1>
 <h3 align="center">A passionate Full-stack developer from Vietnam</h3>
 <p>&nbsp;</p>
 <p align="center">
